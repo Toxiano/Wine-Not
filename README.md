@@ -12,3 +12,6 @@ Open Innovation Project
 - Une fois le téléphone virtuel prêt, on peut aller sur notre dossier main.dart, puis lancer le projet en haut à droite en cliquant sur Start Debugging (la ca va prendre du temps...)
 
 Et voila !
+
+
+Si t'as pas réussi, check ca : https://www.youtube.com/watch?v=1K4YiCgNnQY
